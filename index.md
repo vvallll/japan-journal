@@ -1,1 +1,4 @@
-### here is my trip journal
+---
+layout: default
+title: My Japan Journal
+---
