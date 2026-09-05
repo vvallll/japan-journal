@@ -1,7 +1,1 @@
-# Day 1 — Tokyo
-
-Tokyo was insane.
-
-## Shibuya
-
-The city felt...
+here is my trip journal
