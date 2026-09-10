@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 🇯🇵 **MY JAPAN JOURNAL**
+title: 🇯🇵 MY JAPAN JOURNAL
 ---
 ##### **Period: 14 days. Route: Tokyo → Kamakura → Kyoto → Nara → Osaka → Tokyo**
 
