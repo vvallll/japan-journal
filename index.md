@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 
 # 🇯🇵 MY JAPAN JOURNAL
